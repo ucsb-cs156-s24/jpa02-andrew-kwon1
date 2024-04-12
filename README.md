@@ -7,7 +7,7 @@ Repo: https://github.com/ucsb-cs156-s24/jpa02-andrew-kwon
 
 
 
-Deployed at: https://jpa02-andrew-kwon1.dokku-11.cs.ucsb.edu
+Deployed at: jpa02-andrew-kwon1.dokku-11.cs.ucsb.edu
 
 
 # About this repo
