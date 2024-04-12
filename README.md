@@ -2,7 +2,7 @@
 
 
 
-Repo: https://ucsb-cs156-s24/jpa02-andrew-kwon
+Repo: https://github.com/ucsb-cs156-s24/jpa02-andrew-kwon
 
 
 
